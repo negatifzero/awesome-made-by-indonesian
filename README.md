@@ -142,6 +142,12 @@
 1. (⭐ 4) [Github Repo Content CRUD](https://github.com/hilmanski/Github-content-CRUD-API) - `CRUD API to manipulate contents in your folder's repository` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 1. (⭐ 4) [genmypass](https://github.com/alfianandinugraha/genmypass) - `Generate random password with Javascript` *by [Alfian Andi Nugraha](https://github.com/alfianandinugraha)*
 1. (⭐ 0) [Gitgram](https://github.com/teknologi-umum/gitgram) - `Github notifications for Telegram` *by [Teknologi Umum](https://github.com/teknologi-umum)*
+1. (⭐ 0) [GDB.id](https://ariadesupriyatna.github.io/GNU.Debugger.Indonesia/) - `basic tutorial gdb tool language indonesian` *by [ariadesupriyatna](https://github.com/ariadesupriyatna)*
+
+
+3. 
+1. ( 9) .[GDB.Indonesia]
+()
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
